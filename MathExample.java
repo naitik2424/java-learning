@@ -25,7 +25,6 @@ public class MathExample {
         
 
         scanner.close();
-        
     }
 
     
